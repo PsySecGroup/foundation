@@ -27,6 +27,10 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+The PsySec Group will be taking inspiration from the comprehensive examination of
+open source community management found in
+[Producing Open Source Software](https://producingoss.com/en/producingoss-c5.pdf).
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
