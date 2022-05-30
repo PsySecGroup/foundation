@@ -22,8 +22,8 @@ community include:
 
 Examples of unacceptable behavior include:
 
-* The partial or complete use of coordinated or imitated influence
-  operations of any kind
+* The partial or complete use of coordinated or imitated [influence
+  operations](https://github.com/PsySecGroup/foundation/wiki) of any kind
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
