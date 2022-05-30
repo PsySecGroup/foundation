@@ -16,12 +16,13 @@ The Foundation repository contains the initial guidance documents, recommendatio
 
 ## Conversations
 
-* [Code of Conduct](CODE_OF_CONDUCT.md)
-* [Discussions](https://github.com/orgs/PsySecGroup/discussions)
-* [Announcements](https://github.com/PsySecGroup/foundation/discussions/categories/announcements)
-* [Ideas](https://github.com/PsySecGroup/foundation/discussions/categories/ideas)
-* [Polls](https://github.com/PsySecGroup/foundation/discussions/categories/polls)
-* [Q&A](https://github.com/PsySecGroup/foundation/discussions/categories/q-a)
+* [Code of Conduct](CODE_OF_CONDUCT.md): Check yourself before your become a research subject.
+* [Discussions](https://github.com/orgs/PsySecGroup/discussions): General conversations about psychosecurity.
+* [Announcements](https://github.com/PsySecGroup/foundation/discussions/categories/announcements): Updates that affect the psychosecurity community.
+* [Ideas](https://github.com/PsySecGroup/foundation/discussions/categories/ideas): Have some new ideas?  Want to see other peoples ideas?  Try this out.
+* [Polls](https://github.com/PsySecGroup/foundation/discussions/categories/polls): Poll the psychosecurity community and see what they think.
+* [Q&A](https://github.com/PsySecGroup/foundation/discussions/categories/q-a): Ask questions, receive answers.
+* [Discord](https://discord.gg/XGnnrAvfj7): Join a real-time discussion if Discord is your preference.
 
 ## Projects
 
