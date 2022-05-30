@@ -1,24 +1,24 @@
 # Psychosecurity
 
 * **Symbols as Units of Belief**
- * [History of deception](#history-of-deception)
- * [Deception-free information is impossible](#no-deception-free)
- * [Belief is biology, not deception](#belief-is-biology)
- * [Beliefs are more than fidelity and intention](#belief-is-more)
- * [Institutions are obsessed with fidelity and intention](#institutional-obsession)
- * [The priest creates zealots with symbols and rarely becomes their prey](#immune-priests)
+  * [History of deception](#history-of-deception)
+  * [Deception-free information is impossible](#no-deception-free)
+  * [Belief is biology, not deception](#belief-is-biology)
+  * [Beliefs are more than fidelity and intention](#belief-is-more)
+  * [Institutions are obsessed with fidelity and intention](#institutional-obsession)
+  * [The priest creates zealots with symbols and rarely becomes their prey](#immune-priests)
 * **Psychosecurity Is The Resistance Against Symbols**
- * [Institutions can use agents that are never influenced by symbols](#perfect-immunity)
- * [How these agents unintentionally influence users](#psychosecurity-example)
- * [The limitations and benefits of deploying these agents](#deploying-agents)
+  * [Institutions can use agents that are never influenced by symbols](#perfect-immunity)
+  * [How these agents unintentionally influence users](#psychosecurity-example)
+  * [The limitations and benefits of deploying these agents](#deploying-agents)
   * [How institutions fight against these agents](#fighting-agents)
- * [Definition of psychosecurity](#psychosecurity-definition)
+  * [Definition of psychosecurity](#psychosecurity-definition)
 * **A Framework To Create Psychosecurity-First Organizations**
- * [Calculating psychosecurity](#calculating-psychosecurity)
- * [Psychosecurity and cybersecurity](#cybersecurity)
- * [Psychosecurity and social media](#social-media)
- * [Psychosecurity and user experience design](#ux)
- * [Psychosecurity and legal domains](#legal)
+  * [Calculating psychosecurity](#calculating-psychosecurity)
+  * [Psychosecurity and cybersecurity](#cybersecurity)
+  * [Psychosecurity and social media](#social-media)
+  * [Psychosecurity and user experience design](#ux)
+  * [Psychosecurity and legal domains](#legal)
 * [**Conclusion**](#conclusions)
 
 ## Symbols Are Units Of Belief
