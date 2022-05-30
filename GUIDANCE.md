@@ -85,6 +85,6 @@ Legal teams will be able to use psychosecurity evidence to "[_know the heart and
 <a name="conclusions"></a>
 Psychosecurity is a novel idea that combines psychographic data with the ethos of personal well-being to asses how vulnerable people are to influence operations. The use of perfect psychosecurity agents for both trust enforcement and distance measurement is prioritized in a psychosecurity-first paradigm. Knowing the psychosecurity measurements of the networks you rely on will greatly influence how you interact with them. The ordinary individual can reason about psychosecurity from the frame of personal responsibility.  Institutions can use psychosecurity to better assess their threats and opportunities. Entire symbol spaces can be compiled into a "_daily human weather forecast_," reducing the efficacy of widespread influence operations. Psychosecurity-first frameworks can be developed through open source initiatives and bring together the insights of the many industries facing cybersecurity, existential, exponential, and epistemic threats.
 
-~Patrick Ryan
-_Epistemic cowboy and psychosecurity advocate_
+~Patrick Ryan<br />
+_Epistemic cowboy and psychosecurity advocate_<br />
 [psychosecurity@hypercrowd.org](mailto:psychosecurity@hypercrowd.org)
