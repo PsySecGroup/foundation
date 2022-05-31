@@ -28,10 +28,10 @@ The Foundation repository contains the initial guidance documents, recommendatio
 
 ## Projects
 
-* [How To Contribute Code](CONTRIBUTING.md)
-* [Repositories](https://github.com/orgs/PsySecGroup/repositories)
-* [Projects](https://github.com/orgs/PsySecGroup/projects?type=beta)
-* [Proposals and Requests](https://github.com/PsySecGroup/foundation/issues)
-* [Show and Tell](https://github.com/PsySecGroup/foundation/discussions/categories/show-and-tell)
-* [Security Policies](https://github.com/PsySecGroup/foundation/security)
-* [Metrics](https://github.com/PsySecGroup/foundation/pulse)
+* [How To Contribute Code](CONTRIBUTING.md): Learn how to commit research results to the foundation.
+* [Repositories](https://github.com/orgs/PsySecGroup/repositories): Check out what other efforts the PsySec group uses for psychosecurity research.
+* [Projects](https://github.com/orgs/PsySecGroup/projects?type=beta): Review the projects coming down the pipe from the PsySec Group.
+* [Issues](https://github.com/PsySecGroup/foundation/issues): A list of technical issues affecting the foundation.
+* [Show and Tell](https://github.com/PsySecGroup/foundation/discussions/categories/show-and-tell): If you make something related to psychosecurity, show it here!
+* [Security Policies](https://github.com/PsySecGroup/foundation/security): Review our tehnical security policies.
+* [Metrics](https://github.com/PsySecGroup/foundation/pulse): See the activity around the foundation.
