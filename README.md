@@ -11,8 +11,10 @@ The Foundation repository contains the initial guidance documents, recommendatio
 
 * [Members](https://github.com/orgs/PsySecGroup/people): Who is furthering the research of psychosecurity.
 * [Teams](https://github.com/orgs/PsySecGroup/teams): Groups of people focusing on specific domains of psychosecurity.
+* [Contributors](https://github.com/PsySecGroup/foundation/graphs/contributors): People who have contributed to psychosecurity research.
 * [How to Support Us](SUPPORT.md): Psychosecurity is a big effort and we need all the help we can get.
 * [How to Fork](FORKING.md): Sometimes, conversation and the standing community isn't enough.  Sometimes, you have an idea so groundbreaking you're ahead of your time.  Learn how to cut that new path so we can bring your discoveries back.
+* [Pioneers](https://github.com/PsySecGroup/foundation/network/members): Various pioneers who have forked the psychosecurity foundation and are developing new variations.
 
 ## Conversations
 
