@@ -3,6 +3,8 @@
 When contributing to a PsySecGroup repository, please first [discuss the change you wish to make](https://github.com/PsySecGroup/foundation/discussions)
 and [then create an issue](https://github.com/PsySecGroup/foundation/issues) so its progress can be tracked.
 
+For those who formally join the PsySec Group, don't forget to star the repositories you are contributing to. That way, your commits to those repositories will remain in your contributions graph even if you leave the PsySec Group.
+
 ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
