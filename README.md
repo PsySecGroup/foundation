@@ -1,6 +1,8 @@
 # Foundation
 
-![](https://user-images.githubusercontent.com/76200774/177462240-6c3ccb2d-0983-4e7e-83be-9dfd4acb50c4.png)
+<p align="center">
+  <img width="620" height="407" src="https://user-images.githubusercontent.com/76200774/177462240-6c3ccb2d-0983-4e7e-83be-9dfd4acb50c4.png">
+</p>
 
 The Foundation repository contains the initial guidance documents, recommendations, and resources needed to build a psychosecurity-first operation.
 
